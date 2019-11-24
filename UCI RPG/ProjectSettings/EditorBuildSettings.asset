@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Main Menu.unity
     guid: 324892d43aa4ae3499a96e54f35e8298
   - enabled: 1
+    path: Assets/Scenes/Opening Copy.unity
+    guid: 4f6fd4566926c354880f38a86679316c
+  - enabled: 1
     path: Assets/Scenes/Opening Scene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects: {}
