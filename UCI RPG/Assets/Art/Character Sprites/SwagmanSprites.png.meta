@@ -1,11 +1,43 @@
 fileFormatVersion: 2
-<<<<<<< Updated upstream
 guid: 4698a7cff81510d44a90a2e7415a8e1f
-=======
-guid: 2ad843bcc6068ab4baf12bd3494aa2e3
->>>>>>> Stashed changes
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 8517719265089239743
+    second: SwagmanSprites_0
+  - first:
+      213: 961117122533867647
+    second: SwagmanSprites_1
+  - first:
+      213: 1045628101752277985
+    second: SwagmanSprites_2
+  - first:
+      213: 2832581838976683190
+    second: SwagmanSprites_3
+  - first:
+      213: -9213875338454765782
+    second: SwagmanSprites_4
+  - first:
+      213: 1242055721285862954
+    second: SwagmanSprites_5
+  - first:
+      213: 6338509015895256017
+    second: SwagmanSprites_6
+  - first:
+      213: 1268718337652423586
+    second: SwagmanSprites_7
+  - first:
+      213: 454260020748568357
+    second: SwagmanSprites_8
+  - first:
+      213: 1190731265063234015
+    second: SwagmanSprites_9
+  - first:
+      213: 7707462657131415743
+    second: SwagmanSprites_10
+  - first:
+      213: 1162574410694325646
+    second: SwagmanSprites_11
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,11 +72,11 @@ TextureImporter:
     mipBias: -100
     wrapU: 1
     wrapV: 1
-    wrapW: 1
+    wrapW: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -74,13 +106,277 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: SwagmanSprites_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 624
+        width: 102
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a4fd2103106d34690a2c489c01a568
+      internalID: 8517719265089239743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwagmanSprites_1
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 618
+        width: 102
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377dd8fc23c947149ad0e590db2a5d9a
+      internalID: 961117122533867647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwagmanSprites_2
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 618
+        width: 102
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe4c096fb545ff418150eb9fe5aeb1d
+      internalID: 1045628101752277985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwagmanSprites_3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 432
+        width: 108
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278d2b4fcfc2b544894a674a2cd6ab6b
+      internalID: 2832581838976683190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwagmanSprites_4
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 420
+        width: 108
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376e02a8cb2ae57479bb89b223938249
+      internalID: -9213875338454765782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwagmanSprites_5
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 426
+        width: 108
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba573c4d5fc6c5d4f873d04e0722d039
+      internalID: 1242055721285862954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwagmanSprites_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 246
+        width: 108
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f5a9db272148f4f872a35a545a57c7
+      internalID: 6338509015895256017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwagmanSprites_7
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 240
+        width: 108
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd72fd9447add2443a7971113f928112
+      internalID: 1268718337652423586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwagmanSprites_8
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 234
+        width: 108
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffc6228e28539f47b81fd024ae50d4a
+      internalID: 454260020748568357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwagmanSprites_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 54
+        width: 102
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988583856b7fad348af8dc19f13e4ae3
+      internalID: 1190731265063234015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwagmanSprites_10
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 42
+        width: 102
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a426ccdae3ca934493d98bbd2b09007
+      internalID: 7707462657131415743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwagmanSprites_11
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 42
+        width: 102
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fa2611d4935a644aa307c897f7a376
+      internalID: 1162574410694325646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: e886b1aa2da69024d9b36bb735f5dd08
     internalID: 0
     vertices: []
     indices: 
