@@ -20,4 +20,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Inside ICS.unity
     guid: 5029a3165993e9a4ca074e043548bed7
+  - enabled: 1
+    path: Assets/Scenes/Opening Copy.unity
+    guid: 4f6fd4566926c354880f38a86679316c
+  - enabled: 1
+    path: Assets/Scenes/Inside ALP.unity
+    guid: 56ccc78529f06834185e18dbeb2afbfb
+  - enabled: 1
+    path: Assets/Scenes/Inside Bren.unity
+    guid: 14bd9fb7f3a40614c9465dc1ed3c7d31
   m_configObjects: {}

@@ -18,7 +18,8 @@ public class LevelChanger : MonoBehaviour
 
     public void FadeToNextLevel()
     {
-    	FadeToLevel(SceneManager.GetActiveScene().buildIndex + 1);
+    	//FadeToLevel("Opening Copy");
+        FadeToLevel(SceneManager.GetActiveScene().buildIndex + 1);
     }
 
     public void FadeToLevel(int levelIndex)
@@ -29,6 +30,6 @@ public class LevelChanger : MonoBehaviour
 
     public void OnFadeComplete()
     {
-    	SceneManager.LoadScene(levelToLoad);
+    	SceneManager.LoadScene("Opening Copy");
     }
 }

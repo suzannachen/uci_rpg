@@ -528,7 +528,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1481066339}
   - component: {fileID: 1481066338}
-  - component: {fileID: 1481066341}
   - component: {fileID: 1481066340}
   - component: {fileID: 1481066342}
   - component: {fileID: 1481066344}
@@ -622,34 +621,6 @@ MonoBehaviour:
   animator: {fileID: 1481066344}
   movementDirection: {x: 0, y: 0}
   speed: 4
---- !u!114 &1481066341
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1481066337}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c21b6b8deb85af540a8121737a74b2dc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_JumpForce: 700
-  m_CrouchSpeed: 0.36
-  m_MovementSmoothing: 0.05
-  m_AirControl: 1
-  m_WhatIsGround:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_GroundCheck: {fileID: 553091648}
-  m_CeilingCheck: {fileID: 17122495}
-  m_CrouchDisableCollider: {fileID: 0}
-  OnLandEvent:
-    m_PersistentCalls:
-      m_Calls: []
-  OnCrouchEvent:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!50 &1481066342
 Rigidbody2D:
   serializedVersion: 4
